@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "LangBridge",
+    "slug": "langbridge",
+    "scheme": "langbridge",
+    "orientation": "portrait",
+    "jsEngine": "hermes",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "infoPlist": {
+        "NSContactsUsageDescription": "LangBridge uses your contacts to help you message people you know."
+      }
+    },
+    "android": {
+      "permissions": ["READ_CONTACTS"]
+    }
+  }
+}

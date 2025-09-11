@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+motor
+python-jose[cryptography]
+passlib[bcrypt]
+pydantic-settings
+python-multipart
+twilio
+python-dotenv
