@@ -35,3 +35,4 @@ backend/.DS_Store
 # --- Editors/IDE (optional) ---
 .vscode/
 .idea/
+.env 
